@@ -1,0 +1,5 @@
+medida = float(input('digite um valor em metros: '))
+decimetro = float(medida * 10)
+centrimeto = float(medida * 100)
+melimetro = float(medida * 1000)
+print ('a medida de {}m corresponde a{}cm e {}mm.'.format(medida, centrimeto,decimetro))
