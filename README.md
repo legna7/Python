@@ -1,6 +1,6 @@
 # Python
 
-==> Resolutions for the [Course on Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) online of professor Gustavo Guanabara. Suitable for beginners in the Python language.
+==> Resolutions for the online [Course on Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) classes of professor Gustavo Guanabara. Suitable for beginners in the Python language.
 
 The resolutions are divided into three worlds scenarios:
 * World 1: (variables, operators, modules, text manipulations and colors);
